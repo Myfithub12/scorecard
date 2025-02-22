@@ -2,14 +2,20 @@
 
 }
 
-.head {
-
-}
-
 .footer {
     
 }
 
+.head {
+
+}
+
 .header {
 
+}
+
+.images {
+    width: 125px;
+    height: 125px;
+    background-color: #00aa55;
 }
