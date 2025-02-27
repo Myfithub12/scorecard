@@ -1,4 +1,5 @@
 .body {
+<<<<<<< HEAD
   border : 10px dashed Blue ;
   padding : 5px ;
   width : 500px ;
@@ -9,3 +10,25 @@
 .footer {
 
 }
+=======
+
+}
+
+.footer {
+    
+}
+
+.head {
+
+}
+
+.header {
+
+}
+
+.images {
+    width: 125px;
+    height: 125px;
+    background-color: #00aa55;
+}
+>>>>>>> 749f7619ef1827567f4be2af050d31d58df134c1
