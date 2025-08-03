@@ -1,9 +1,9 @@
 .body {
-    background-color: red;
+    background-color: whitesmoke;
 }
 
 .images {
-    justify-content: space-between;
+    justify-content: center;
     box-shadow: 1px 3px 15px;
     border: 4.5px solid black;
     border-radius: 15%;
@@ -11,5 +11,5 @@
 }
 
 .footer {
-    color: white;
+    color: red;
 }
