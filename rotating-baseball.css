@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+.baseball {
+  width: 150px;
+  height: 150px;
+  background: radial-gradient(circle at center, #ffffff 60%, #cccccc 100%);
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  background-image: 
+    radial-gradient(circle at 40% 50%, red 2px, transparent 2px),
+    radial-gradient(circle at 60% 50%, red 2px, transparent 2px);
+  background-size: 100% 100%;
+  animation: spin 3s linear infinite;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
