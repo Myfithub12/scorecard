@@ -1,0 +1,17 @@
+body {
+    background-color: aqua;
+}
+
+div {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.bottom {
+    color: white;
+}
