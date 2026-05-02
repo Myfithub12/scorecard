@@ -5,3 +5,12 @@
 section {
     font-size: x-large;
 }
+
+table, th, td {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+th, td {
+  background-color: #96D4D4;
+}
